@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-23">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="黛玉" label="黛玉" />
+      <node id="寶玉" label="寶玉" />
+      <node id="林如海" label="林如海" />
+      <node id="賈母" label="賈母" />
+      <node id="賈璉" label="賈璉" />
+      <node id="鳳姐" label="鳳姐" />
+      <node id="平兒" label="平兒" />
+      <node id="秦氏" label="秦氏" />
+      <node id="襲人" label="襲人" />
+      <node id="王夫人" label="王夫人" />
+      <node id="賈政" label="賈政" />
+      <node id="寶釵" label="寶釵" />
+      <node id="迎春" label="迎春" />
+      <node id="北靜王" label="北靜王" />
+      <node id="賈赦" label="賈赦" />
+      <node id="尤氏" label="尤氏" />
+      <node id="邢夫人" label="邢夫人" />
+      <node id="李紈" label="李紈" />
+      <node id="李嬤嬤" label="李嬤嬤" />
+      <node id="史湘雲" label="史湘雲" />
+      <node id="惜春" label="惜春" />
+      <node id="探春" label="探春" />
+    </nodes>
+    <edges>
+      <edge source="黛玉" target="寶玉" id="0">
+        <attvalues>
+          <attvalue for="0" value="74" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="林如海" id="1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="賈母" id="2">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="賈璉" id="3">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="鳳姐" id="4">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="平兒" id="5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="秦氏" id="6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="襲人" id="7">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="王夫人" id="8">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="賈政" id="9">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="寶釵" id="10">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="迎春" id="11">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="北靜王" id="12">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="賈赦" id="13">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="尤氏" id="14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="邢夫人" id="15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="李紈" id="16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="李嬤嬤" id="17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="史湘雲" id="18">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="惜春" id="19">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="黛玉" target="探春" id="20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
